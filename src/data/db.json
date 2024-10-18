@@ -1,0 +1,34 @@
+{
+  "login": [
+    {
+      "email": "docemel@sodoce.com.br",
+      "senha": "brigadeiro123"
+    }
+  ],
+  "produtos": [
+    {
+      "id": "1",
+      "nome": "Pudim",
+      "Tipo": "Pudim",
+      "preco": "20"
+    },
+    {
+      "id": "2",
+      "nome": "Bolo de morango",
+      "Tipo": "Bolo",
+      "preco": "30"
+    },
+    {
+      "id": "e4b9",
+      "nome": "Torta de maracujá",
+      "Tipo": "Torta",
+      "preco": "20"
+    },
+    {
+      "id": "eced",
+      "nome": "Torta de limão",
+      "Tipo": "Torta",
+      "preco": "123"
+    }
+  ]
+}
